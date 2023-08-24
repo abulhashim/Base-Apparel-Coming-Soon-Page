@@ -5,7 +5,6 @@ export default {
     extend: {
       backgroundImage: {
         desktop: "url('./images/bg-pattern-desktop.svg')",
-        mobile: "url('./images/bg-pattern-mobile.svg')",
         btn: "linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%))",
         "btn-error-state":
           "linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%))",
