@@ -1,4 +1,4 @@
-# Frontend Mentor - Base Apparel coming soon page solution
+# Base Apparel coming soon page solution
 
 This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page)
+- Solution URL: [frontendmentor.io/solutions/base-apparel-coming-soon-page](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-CexyuBF0gz)
 - Live Site URL: [abulhashim.github.io/Base-Apparel-Coming-Soon-Page](https://abulhashim.github.io/Base-Apparel-Coming-Soon-Page/)
 
 ## My process
